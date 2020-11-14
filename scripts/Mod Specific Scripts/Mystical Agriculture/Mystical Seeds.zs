@@ -718,9 +718,9 @@ mods.extendedcrafting.TableCrafting.addShaped(3, <mysticalagriculture:steel_seed
 	[<ore:blockSteel>, <ore:ingotSteel>, <ore:ingotSteel>, <ore:ingotSteel>, <ore:ingotSteel>, <ore:ingotSteel>, <ore:blockSteel>], 
 	[<ore:ingotSteel>, <extendedcrafting:material:7>, <ore:blockCoal>, <ore:blockIron>, <ore:blockCoal>, <extendedcrafting:material:7>, <ore:ingotSteel>], 
 	[<ore:ingotSteel>, <ore:blockIron>, <ore:essenceTier3>, <ore:essenceSuperium>, <ore:essenceTier3>, <ore:blockIron>, <ore:ingotSteel>], 
-	[<ore:ingotSteel>, <ore:blockCoal>, <ore:essenceSuperium>, <mysticalagriculture:crafting:20>, <ore:essenceSuperium>, <ore:blockCoalCoke>, <ore:ingotSteel>], 
+	[<ore:ingotSteel>, <ore:blockCoal>, <ore:essenceSuperium>, <mysticalagriculture:crafting:20>, <ore:essenceSuperium>, <ore:blockFuelCoke>, <ore:ingotSteel>], 
 	[<ore:ingotSteel>, <ore:blockIron>, <ore:essenceTier3>, <ore:essenceSuperium>, <ore:essenceTier3>, <ore:blockIron>, <ore:ingotSteel>], 
-	[<ore:ingotSteel>, <extendedcrafting:material:7>, <ore:blockCoalCoke>, <ore:blockIron>, <ore:blockCoalCoke>, <extendedcrafting:material:7>, <ore:ingotSteel>], 
+	[<ore:ingotSteel>, <extendedcrafting:material:7>, <ore:blockFuelCoke>, <ore:blockIron>, <ore:blockFuelCoke>, <extendedcrafting:material:7>, <ore:ingotSteel>], 
 	[<ore:blockSteel>, <ore:ingotSteel>, <ore:ingotSteel>, <ore:ingotSteel>, <ore:ingotSteel>, <ore:ingotSteel>, <ore:blockSteel>]
 ]);
 
