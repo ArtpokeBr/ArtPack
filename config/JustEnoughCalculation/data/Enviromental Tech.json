@@ -1,0 +1,53 @@
+{"Enviromental Tech": [{
+    "output": [{
+        "type": "itemStack",
+        "content": {
+            "amount": 1L,
+            "item": "environmentaltech:void_ore_miner_cont_1"
+        }
+    }],
+    "input": [
+        {
+            "type": "oreDict",
+            "content": {
+                "amount": 4L,
+                "name": "blockLitherite"
+            }
+        },
+        {
+            "type": "oreDict",
+            "content": {
+                "amount": 1L,
+                "name": "blockDiamond"
+            }
+        },
+        {
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "environmentaltech:diode"
+            }
+        },
+        {
+            "type": "itemStack",
+            "content": {
+                "amount": 2L,
+                "item": "environmentaltech:interconnect"
+            }
+        },
+        {
+            "type": "oreDict",
+            "content": {
+                "amount": 1L,
+                "name": "etLaserLens"
+            }
+        }
+    ],
+    "catalyst": [{
+        "type": "itemStack",
+        "content": {
+            "amount": 1L,
+            "item": "minecraft:crafting_table"
+        }
+    }]
+}]}
