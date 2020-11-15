@@ -1,1 +1,1 @@
-kkkk não é que funcionou mesmo eu mandar os arquivos pro Git? :P
+Pior que é meio complicadinho colocar as coisas no GitHub, haja workflow de ficar puxando o console viu :/
