@@ -1,1 +1,0 @@
-Pior que é meio complicadinho colocar as coisas no GitHub, haja workflow de ficar puxando o console viu :/
